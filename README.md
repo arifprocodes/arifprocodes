@@ -6,7 +6,7 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 
 Skills: Java / J2EE /  Spring / Spring Boot / JavaScript / React / Node / MySQL/ HTML / CSS /Bootstrap
 
-
+- I am looking for Summer Internship
 
 
 
