@@ -1,4 +1,4 @@
-[![Screen-Shot-2023-01-31-at-10-20-25-PM.png](https://media.licdn.com/dms/image/D4E16AQEOfHsH9f8ILg/profile-displaybackgroundimage-shrink_350_1400/0/1675295450329?e=1680739200&v=beta&t=wX03l4W7Yaf6gNKBTZPYnAJAfzFpLWwXUcESaJsnLdg)](https://postimg.cc/z3H2p8Yp)
+
 
 ### Hi there 👋, I am Arif
 #### Software Engineer
