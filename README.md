@@ -6,7 +6,7 @@
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in ASP.NET,JAVA,JAVASCRIPT, and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as a software engineer with a reputed firm driven by technology
 
-Skills: ASP.NET, Agile, Java / J2EE /  Spring / Spring Boot / JavaScript / React / Node / MySQL/ HTML / CSS /Bootstrap
+Skills: ASP.NET, Java / J2EE /  Spring / Spring Boot / JavaScript / React / Node / MySQL/ HTML / CSS /Bootstrap,Agile
 
 #### I am looking for Internship.
 
