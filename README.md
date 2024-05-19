@@ -8,5 +8,5 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 
 Skills: ASP.NET, Java / J2EE /  Spring / Spring Boot / JavaScript / React / Node / MySQL/ HTML / CSS /Bootstrap,Agile
 
-#### I am looking for Internship.
+
 
